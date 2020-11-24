@@ -1,0 +1,43 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    background-image: url("https://image.freepik.com/free-photo/wooden-table-with-blur-background-coffee-shop_1421-3283.jpg");
+    background-size: cover;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  h1 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+  }
+
+ .container {
+        background-color: #ffffffcb;
+        margin: auto;
+        width: 50%;
+        text-align: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+          }
+  .container2 {
+         background-color: #ffffffcb;
+         margin: auto;
+         width: 50%;
+         text-align: center;
+        }
+
+#undevoured {
+    width: 100%;
+}
