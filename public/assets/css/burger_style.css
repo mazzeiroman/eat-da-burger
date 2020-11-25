@@ -20,6 +20,7 @@ body {
     margin: auto;
     width: 50%;
     text-align: center;
+    
   }
 
  .container {
@@ -39,5 +40,9 @@ body {
         }
 
 #undevoured {
+    width: 100%;
+}
+
+#devoured {
     width: 100%;
 }
