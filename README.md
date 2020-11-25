@@ -19,6 +19,8 @@ https://github.com/mazzeiroman/eat-da-burger
 ## Link to the Deployed Application
  https://mighty-basin-34115.herokuapp.com/
 
+ ![](public/assets/img/eatdaburg.jpg)
+
 ## Description
  A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Following the MVC design pattern; using Node and MySQL to query and route data in the app, and Handlebars to generate HTML.
  
